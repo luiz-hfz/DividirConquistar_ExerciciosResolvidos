@@ -1,7 +1,8 @@
-# Grafos 1 - Exércicios
+# Dividir e Conquistar - Exércicios
 
-**Número da Lista**: 1<br>
-**Conteúdo da Disciplina**: Grafos 1<br>
+**Número da Lista**: 4<br>
+**Conteúdo da Disciplina**: Dividir e Conquistar<br>
+**Número da dupla**: 5<br>
 
 ## Alunos
 |Matrícula | Aluno |
@@ -11,19 +12,30 @@
 
 ## Sobre 
 
-A aplicação dos conceitos de Grafos 1 aprendidos na disciplina de Projeto de Algoritmos da disciplina foi realizada por meio da realização de 5 exercícios sobre o assunto de grafos. Exercícios Executados:
+A aplicação dos conceitos de Dividir e Conquistar aprendidos na disciplina de Projeto de Algoritmos da disciplina foi realizada por meio da realização de X exercícios sobre o assunto de Dividir e Conquistar. Exercícios Executados:
 
 ### Exércicios executados
 
 | Exercício | Dificuldade | Id Leetcode | Linguagem | Código |
 | -- | -- | -- | -- | -- |
-| [Numero - Exercicio](link) | Dificil | [numero](link) | Python3 | [codigo.py](link.py) |
+| [2407](https://github.com/luiz-hfz/DividirConquistar_ExerciciosResolvidos/blob/master/images/2407-enunciado.pdf) | Dificil | [numero](https://leetcode.com/problems/longest-increasing-subsequence-ii/description/) | JavaScript| [codigo.js](https://github.com/luiz-hfz/DividirConquistar_ExerciciosResolvidos/blob/master/2407-subsequenciaMaisLonga.js) |
+| [2426](https://github.com/luiz-hfz/DividirConquistar_ExerciciosResolvidos/blob/master/images/2426-enunciado.pdf) | Dificil | [numero](https://leetcode.com/problems/number-of-pairs-satisfying-inequality/description/) | JavaScript| [codigo.js](https://github.com/luiz-hfz/DividirConquistar_ExerciciosResolvidos/blob/master/2426-paresSatisfazemIgualdade.js) |
 
 ## Video
 
 YOUTUBE: [Video](https://youtu.be/)
 GITHUB: [Video](https://github.com/)
+
 ## Screenshots
+
+### 2407 - 2407 . Subsequência crescente mais longa II
+
+![2407](/images/tentativas2407.png)
+
+### 2426 - Número de pares que satisfazem a desigualdade
+
+![2426](/images/2426-tentativa.png)
+
 
 ### numero - Questão
 
