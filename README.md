@@ -18,8 +18,9 @@ A aplicação dos conceitos de Dividir e Conquistar aprendidos na disciplina de 
 
 | Exercício | Dificuldade | Id Leetcode | Linguagem | Código |
 | -- | -- | -- | -- | -- |
-| [2407](https://github.com/luiz-hfz/DividirConquistar_ExerciciosResolvidos/blob/master/images/2407-enunciado.pdf) | Dificil | [numero](https://leetcode.com/problems/longest-increasing-subsequence-ii/description/) | JavaScript| [codigo.js](https://github.com/luiz-hfz/DividirConquistar_ExerciciosResolvidos/blob/master/2407-subsequenciaMaisLonga.js) |
-| [2426](https://github.com/luiz-hfz/DividirConquistar_ExerciciosResolvidos/blob/master/images/2426-enunciado.pdf) | Dificil | [numero](https://leetcode.com/problems/number-of-pairs-satisfying-inequality/description/) | JavaScript| [codigo.js](https://github.com/luiz-hfz/DividirConquistar_ExerciciosResolvidos/blob/master/2426-paresSatisfazemIgualdade.js) |
+| [2407](https://github.com/projeto-de-algoritmos/DividirConquistar_ExerciciosResolvidos/blob/master/images/2407-enunciado.pdf) | Dificil | [2407](https://leetcode.com/problems/longest-increasing-subsequence-ii/description/) | JavaScript| [codigo.js](https://github.com/projeto-de-algoritmos/DividirConquistar_ExerciciosResolvidos/blob/master/2407-subsequenciaMaisLonga.js) |
+| [2426](https://github.com/projeto-de-algoritmos/DividirConquistar_ExerciciosResolvidos/blob/master/images/2426-enunciado.pdf) | Dificil | [2426](https://leetcode.com/problems/number-of-pairs-satisfying-inequality/description/) | JavaScript| [codigo.js](https://github.com/projeto-de-algoritmos/DividirConquistar_ExerciciosResolvidos/blob/master/2426-paresSatisfazemIgualdade.js) |
+| [1982]() | Dificil | [1982]() | Python3 | [1982-BonsTrigemeosMatriz.py](https://github.com/projeto-de-algoritmos/DividirConquistar_ExerciciosResolvidos) |
 
 ## Video
 
@@ -36,10 +37,9 @@ GITHUB: [Video](https://github.com/)
 
 ![2426](/images/2426-tentativa.png)
 
+### 1982 - Conte bons trigêmeos em uma matriz
 
-### numero - Questão
-
-![numero](imagepng)
+![1982](/images/1982-tentativa.PNG)
 
 ## Instalação 
 
