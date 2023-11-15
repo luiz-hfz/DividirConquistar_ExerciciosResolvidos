@@ -45,7 +45,7 @@ GITHUB: [Video](https://github.com/)
 
 ### 2179 - Conte bons trigêmeos em uma matriz
 
-![1982](/images/2179 - tentativa.PNG)
+![1982](/images/2179-tentativa.PNG)
 
 ## Instalação 
 
