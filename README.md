@@ -12,7 +12,7 @@
 
 ## Sobre 
 
-A aplicação dos conceitos de Dividir e Conquistar aprendidos na disciplina de Projeto de Algoritmos da disciplina foi realizada por meio da realização de X exercícios sobre o assunto de Dividir e Conquistar. Exercícios Executados:
+A aplicação dos conceitos de Dividir e Conquistar aprendidos na disciplina de Projeto de Algoritmos da disciplina foi realizada por meio da realização de 8 exercícios sobre o assunto de Dividir e Conquistar. Exercícios Executados:
 
 ### Exércicios executados
 
