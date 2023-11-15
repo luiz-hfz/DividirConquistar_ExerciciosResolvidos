@@ -23,7 +23,7 @@ A aplicação dos conceitos de Dividir e Conquistar aprendidos na disciplina de 
 | [Enunciado 1982](https://github.com/projeto-de-algoritmos/DividirConquistar_ExerciciosResolvidos/blob/master/images/1982-enunciado.pdf) | Dificil | [1982](https://leetcode.com/problems/find-array-given-subset-sums/) | Python3 | [1982-SomaSubconjuntosMatriz.py](https://github.com/projeto-de-algoritmos/DividirConquistar_ExerciciosResolvidos/blob/master/1982-SomaSubconjuntosMatriz.py) |
 | [Enunciado 2179](https://github.com/projeto-de-algoritmos/DividirConquistar_ExerciciosResolvidos/blob/master/images/2179-enunciado.pdf) | Dificil | [1982](https://leetcode.com/problemset/all/?topicSlugs=divide-and-conquer&page=1&difficulty=HARD) | Python3 | [2179-BonsTrigemeosMatriz.py](https://github.com/projeto-de-algoritmos/DividirConquistar_ExerciciosResolvidos/blob/master/2179-BonsTrigemeosMatriz.py) |
 | [Enunciado 1649](https://github.com/projeto-de-algoritmos/DividirConquistar_ExerciciosResolvidos/blob/master/images/1649-enunciado.pdf) | Dificil | [1649](https://leetcode.com/problems/create-sorted-array-through-instructions/description/) | Python3 | [1649-MatrizClassificadaInstrucoes.py](https://github.com/projeto-de-algoritmos/DividirConquistar_ExerciciosResolvidos/blob/master/1649-MatrizClassificadaInstrucoes.py) |
-
+| [Enunciado 1569](https://github.com/projeto-de-algoritmos/DividirConquistar_ExerciciosResolvidos/blob/master/images/1569-enunciado.pdf) | Dificil | [1569](https://leetcode.com/problems/number-of-ways-to-reorder-array-to-get-same-bst/) | Python3 | [1569-ManeirasReordenarABS.py](https://github.com/projeto-de-algoritmos/DividirConquistar_ExerciciosResolvidos/blob/master/1569-ManeirasReordenarABS.py) |
  
 ## Video
 
@@ -46,11 +46,16 @@ GITHUB: [Video](https://github.com/)
 
 ### 2179 - Conte bons trigêmeos em uma matriz
 
-![1982](/images/2179-tentativa.PNG)
+![2179](/images/2179-tentativa.PNG)
 
 ### 1649 - Crie uma matriz classificada por meio de instruções
 
-![1982](/images/1649-tentativa.PNG)
+![1649](/images/1649-tentativa.PNG)
+
+### 1569 - Número de maneiras de reordenar o array para obter o mesmo BST
+
+![1569](/images/1569-tentativa.PNG)
+
 
 ## Instalação 
 
