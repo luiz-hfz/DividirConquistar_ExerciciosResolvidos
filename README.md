@@ -24,6 +24,8 @@ A aplicação dos conceitos de Dividir e Conquistar aprendidos na disciplina de 
 | [Enunciado 2179](https://github.com/projeto-de-algoritmos/DividirConquistar_ExerciciosResolvidos/blob/master/images/2179-enunciado.pdf) | Dificil | [1982](https://leetcode.com/problemset/all/?topicSlugs=divide-and-conquer&page=1&difficulty=HARD) | Python3 | [2179-BonsTrigemeosMatriz.py](https://github.com/projeto-de-algoritmos/DividirConquistar_ExerciciosResolvidos/blob/master/2179-BonsTrigemeosMatriz.py) |
 | [Enunciado 1649](https://github.com/projeto-de-algoritmos/DividirConquistar_ExerciciosResolvidos/blob/master/images/1649-enunciado.pdf) | Dificil | [1649](https://leetcode.com/problems/create-sorted-array-through-instructions/description/) | Python3 | [1649-MatrizClassificadaInstrucoes.py](https://github.com/projeto-de-algoritmos/DividirConquistar_ExerciciosResolvidos/blob/master/1649-MatrizClassificadaInstrucoes.py) |
 | [Enunciado 1569](https://github.com/projeto-de-algoritmos/DividirConquistar_ExerciciosResolvidos/blob/master/images/1569-enunciado.pdf) | Dificil | [1569](https://leetcode.com/problems/number-of-ways-to-reorder-array-to-get-same-bst/) | Python3 | [1569-ManeirasReordenarABS.py](https://github.com/projeto-de-algoritmos/DividirConquistar_ExerciciosResolvidos/blob/master/1569-ManeirasReordenarABS.py) |
+[Enunciado 4](https://github.com/projeto-de-algoritmos/DividirConquistar_ExerciciosResolvidos/blob/master/4-mediana.pdf) | Dificil  |[4](https://leetcode.com/problems/median-of-two-sorted-arrays/description/)|JavaScipt |[4.mediana.js](https://github.com/projeto-de-algoritmos/DividirConquistar_ExerciciosResolvidos/blob/master/4.mediana.js)|JavaScript|
+[Enunciado 315](https://github.com/projeto-de-algoritmos/DividirConquistar_ExerciciosResolvidos/blob/master/315-ContaInversao.pdf) | Dificil  |[315](https://leetcode.com/problems/count-of-smaller-numbers-after-self/description/)|JavaScipt |[315-contaInversao.js](https://github.com/projeto-de-algoritmos/DividirConquistar_ExerciciosResolvidos/blob/master/315-contaInversao.js)|
  
 ## Video
 
@@ -32,7 +34,7 @@ GITHUB: [Video](https://github.com/)
 
 ## Screenshots
 
-### 2407 - 2407 . Subsequência crescente mais longa II
+### 2407 - Subsequência crescente mais longa II
 
 ![2407](/images/tentativas2407.png)
 
@@ -56,6 +58,13 @@ GITHUB: [Video](https://github.com/)
 
 ![1569](/images/1569-tentativa.PNG)
 
+### 4 Mediana de duas matrizes classificadas
+
+![4](/images/TentativaMediana.png)
+
+### 315 - Contagem de números menores depois de si mesmo
+
+![315](/images/315Tentativa.png)
 
 ## Instalação 
 
