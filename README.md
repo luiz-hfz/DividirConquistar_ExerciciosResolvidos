@@ -18,9 +18,10 @@ A aplicação dos conceitos de Dividir e Conquistar aprendidos na disciplina de 
 
 | Exercício | Dificuldade | Id Leetcode | Linguagem | Código |
 | -- | -- | -- | -- | -- |
-| [2407](https://github.com/projeto-de-algoritmos/DividirConquistar_ExerciciosResolvidos/blob/master/images/2407-enunciado.pdf) | Dificil | [2407](https://leetcode.com/problems/longest-increasing-subsequence-ii/description/) | JavaScript| [codigo.js](https://github.com/projeto-de-algoritmos/DividirConquistar_ExerciciosResolvidos/blob/master/2407-subsequenciaMaisLonga.js) |
-| [2426](https://github.com/projeto-de-algoritmos/DividirConquistar_ExerciciosResolvidos/blob/master/images/2426-enunciado.pdf) | Dificil | [2426](https://leetcode.com/problems/number-of-pairs-satisfying-inequality/description/) | JavaScript| [codigo.js](https://github.com/projeto-de-algoritmos/DividirConquistar_ExerciciosResolvidos/blob/master/2426-paresSatisfazemIgualdade.js) |
-| [1982]() | Dificil | [1982]() | Python3 | [1982-BonsTrigemeosMatriz.py](https://github.com/projeto-de-algoritmos/DividirConquistar_ExerciciosResolvidos) |
+| [Enunciado 2407](https://github.com/projeto-de-algoritmos/DividirConquistar_ExerciciosResolvidos/blob/master/images/2407-enunciado.pdf) | Dificil | [2407](https://leetcode.com/problems/longest-increasing-subsequence-ii/description/) | JavaScript| [2407-subsequenciaMaisLonga.js](https://github.com/projeto-de-algoritmos/DividirConquistar_ExerciciosResolvidos/blob/master/2407-subsequenciaMaisLonga.js) |
+| [Enunciado 2426](https://github.com/projeto-de-algoritmos/DividirConquistar_ExerciciosResolvidos/blob/master/images/2426-enunciado.pdf) | Dificil | [2426](https://leetcode.com/problems/number-of-pairs-satisfying-inequality/description/) | JavaScript| [2426-paresSatisfazemIgualdade.js
+](https://github.com/projeto-de-algoritmos/DividirConquistar_ExerciciosResolvidos/blob/master/2426-paresSatisfazemIgualdade.js) |
+| [Enunciado 1982](https://github.com/projeto-de-algoritmos/DividirConquistar_ExerciciosResolvidos/blob/master/images/1982-enunciado.pdf) | Dificil | [1982](https://leetcode.com/problems/find-array-given-subset-sums/) | Python3 | [1982-SomaSubconjuntosMatriz.py](https://github.com/projeto-de-algoritmos/DividirConquistar_ExerciciosResolvidos/blob/master/1982-SomaSubconjuntosMatriz.py) |
 
 ## Video
 
@@ -37,7 +38,7 @@ GITHUB: [Video](https://github.com/)
 
 ![2426](/images/2426-tentativa.png)
 
-### 1982 - Conte bons trigêmeos em uma matriz
+### 1982 - Encontre somas de subconjuntos dadas pela matriz
 
 ![1982](/images/1982-tentativa.PNG)
 
@@ -45,8 +46,8 @@ GITHUB: [Video](https://github.com/)
 
 Não é necessario instalação, os exercicios devem ser rodados no site [leetcode]([link](https://leetcode.com/problemset/all/)).
 
-**Linguagem 1**: Python3<br>
-**Linguagem 2**: Javascript<br>
+**Linguagem 1**: Javascript<br>
+**Linguagem 2**: Python3<br>
 
 ## Uso
 
