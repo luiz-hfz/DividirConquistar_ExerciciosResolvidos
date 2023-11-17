@@ -31,7 +31,7 @@ A aplicação dos conceitos de Dividir e Conquistar aprendidos na disciplina de 
 
 YOUTUBE: [Video](https://youtu.be/o1uAEDKhJ6s) 
 
-GITHUB: [Video](https://github.com/gravacaodividirconquistar.mp4)
+GITHUB: [Video](https://github.com/projeto-de-algoritmos/DividirConquistar_ExerciciosResolvidos/blob/master/gravacaodividirconquistar.mp4)
 
 ## Screenshots
 
