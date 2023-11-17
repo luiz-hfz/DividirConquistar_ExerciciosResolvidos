@@ -29,8 +29,9 @@ A aplicação dos conceitos de Dividir e Conquistar aprendidos na disciplina de 
  
 ## Video
 
-YOUTUBE: [Video](https://youtu.be/)
-GITHUB: [Video](https://github.com/)
+YOUTUBE: [Video](https://youtu.be/o1uAEDKhJ6s) 
+
+GITHUB: [Video](https://github.com/gravacaodividirconquistar.mp4)
 
 ## Screenshots
 
